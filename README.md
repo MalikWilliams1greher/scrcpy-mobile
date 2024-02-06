@@ -1,5 +1,7 @@
 # scrcpy-mobile
 
+简体中文
+
 Ported [scrcpy](https://github.com/Genymobile/scrcpy) for mobile platforms, to remotely control Android devices on your iPhone or Android phone.
 
 *Currently only supports controlling Android devices from iOS, Android controlling Android devices will be supported in future.*
